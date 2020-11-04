@@ -22,7 +22,7 @@ See formats.md for a table with mappings between the different formats
 
 ## TODO
 * Increase SPDX and SWID precision
-* Add XycloneDX
+* Add CycloneDX
  
  
  ## Usage
