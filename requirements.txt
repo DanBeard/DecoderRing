@@ -2,7 +2,7 @@ isodate==0.6.0
 pkg-resources==0.0.0
 ply==3.11
 pyparsing==2.4.7
-PyYAML==5.3.1
+PyYAML==5.4
 rdflib==5.0.0
 six==1.15.0
 -e git+git@github.com:DanBeard/tools-python.git@c828070d2ad2a25dfb3e63994273252ed8a00029#egg=spdx_tools
